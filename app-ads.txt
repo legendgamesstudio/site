@@ -1,0 +1,6 @@
+# App-ads.txt for Legend Games Studio
+# Replace these placeholders with your actual ad network IDs and details.
+# Format: <Ad Network Domain>, <Publisher ID>, <Relationship>, <Certification ID>
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# unity3d.com, 12345, DIRECT,
+# applovin.com, 12345, DIRECT,
